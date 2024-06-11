@@ -1,0 +1,21 @@
+button:hover{
+    color: blue;
+    background-color: red;
+    padding: 10px;
+}
+
+button {
+    margin: 40px;
+    width: 80px;
+    height: 77px;
+    font: size 40px;
+    border-radius: 5px;
+}
+ 
+h1 {
+    font: size 40px;;
+}
+
+body {
+    display: flex;
+}
